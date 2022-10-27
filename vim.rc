@@ -29,6 +29,7 @@ let g:fzf_layout = { 'down': '40%' }
 
 " airline config
 let g:airline_extensions = ['branch']
+let g:airline_powerline_fonts = 1
 
 " vim plugins manage
 call plug#begin('~/.vim/plugged')
